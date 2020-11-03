@@ -1,8 +1,8 @@
-# showcase-2020
+# Showcase-2020
 making portfolio in 10 days
 
->## day-1
+>## Day-1
 >- Brushed up git commands and markdown syntax.
 >
->- set up the index html file.
+>- set up the index.html file.
 
