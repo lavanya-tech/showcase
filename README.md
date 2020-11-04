@@ -6,3 +6,5 @@ making portfolio in 10 days
 >
 >- set up the index.html file.
 
+>## Day-2
+>- Added navigation bar.
